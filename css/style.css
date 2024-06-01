@@ -32,12 +32,18 @@
 }
 
 
-.text{
+.text-text{
     color: var(--primary);
 }
 
-.badge_text-bg-primary{
+.badge{
     color: var(--light);
     border-radius: 4px;
     background-color: var(--primary);
+}
+
+.card{
+    border-radius: 10px;
+    border-color: #EEEEEE;
+    background-color: #EEEEEE;
 }
