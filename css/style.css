@@ -42,8 +42,41 @@
     background-color: var(--primary);
 }
 
-.card{
+.card_body_1{
     border-radius: 10px;
     border-color: #EEEEEE;
     background-color: #EEEEEE;
+}
+
+.card{
+    border-color: var(--light);
+    background-color: var(--light);
+}
+
+.card-1 {
+    border-radius: 0px;
+    border-color: var(--primary);
+    background-color: var(--primary);
+}
+
+.card-title {
+    color: var(--light);
+}
+
+.card-title-1 {
+    color: #000000;
+}
+
+.card-text-1 {
+    color: var(--light);
+}
+
+.container{
+    background-color: var(--light);
+    align-items: center;
+    flex: 1 1 200px;
+}
+
+.email{
+
 }
